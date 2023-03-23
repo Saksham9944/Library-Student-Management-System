@@ -1,6 +1,6 @@
 # Library-Student-Data-Management-System-LSDMS-
 Library Student Data Management System Project: An Overview
-https://github.com/Saksham9944/Library-Student-Data-Management-System-LSDMS-/issues/1#issue-1631010517
+https://www.kapwing.com/videos/641c3351c32eaa02ca3cda4b
 
 Library Student Data Management System is a GUI that is designed to manage student data in a library. The primary goal of a Library Student Data Management System project is to develop a system that can simplify and automate the management of student data in a library. The system should allow library administrators to manage student data efficiently, and it should also provide a user-friendly interface for user to access their data.
 
